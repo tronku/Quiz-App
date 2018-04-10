@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="desc">logo</string>
+    <string name="name">Name</string>
+    <string name="mail">Email-id</string>
+    <string name="avatar">Avatar</string>
+    <string name="enter">ENTER</string>
+    <string name="developer">Developed by Tronku</string>
+    <string name="score">Score: </string>
+    <string name="value">0</string>
+    <string name="exit">Game Over!</string>
+    <string name="playedwell">You played well!</string>
+    <string name="replay">REPLAY</string>
+    <string name="quit">EXIT</string>
+    <string name="you_score">Your Score:</string>
+    <string name="won">YOU WON!!!</string>
+    <string name="win">You Won!!!</string>
+
+    <string name="ques1">Question 1</string>
+    <string name="q1">Who is the founder of Google?</string>
+    <string name="q1_op1">JEFF BEZOS</string>
+    <string name="q1_op2">LARRY PAGE</string>
+    <string name="q1_op3">EVAN SPIEGAL</string>
+
+    <string name="ques2">Question 2</string>
+    <string name="q2">Which is the most innovative company?</string>
+    <string name="q2_op1">APPLE</string>
+    <string name="q2_op2">TESLA</string>
+    <string name="q2_op3">GOOGLE</string>
+
+    <string name="ques3">Question 3</string>
+    <string name="q3">Who is the creator of C?</string>
+    <string name="q3_op1">JAMES GOSLING</string>
+    <string name="q3_op2">DENNIS RITCHIE</string>
+    <string name="q3_op3">STROUSTRUP</string>
+
+    <string name="ques4">Question 4</string>
+    <string name="q4">Fastest growing language?</string>
+    <string name="q4_op1">PYTHON</string>
+    <string name="q4_op2">GO</string>
+    <string name="q4_op3">SWIFT</string>
+
+    <string name="ques5">Question 5</string>
+    <string name="q5">Who is the creator of this app?</string>
+    <string name="q5_op1">SHUBHAM PATHAK</string>
+    <string name="q5_op2">PATHAK</string>
+    <string name="q5_op3">SHUBHAM</string>
+</resources>
